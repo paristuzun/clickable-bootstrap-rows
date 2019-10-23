@@ -7,5 +7,14 @@
 }
 
 .clickable-row:hover {
-    background: #f0f0f0;
+    background: #fafafa;
+}
+
+a {
+    font-size: 1.2rem;
+    color:#d60e96;
+}
+
+a:hover {
+    text-decoration: none;
 }
