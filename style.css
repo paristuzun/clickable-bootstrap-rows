@@ -1,20 +1,22 @@
 .pointer {
     cursor: pointer;
-}
-
-.pointer:last-child {
+  }
+  
+  /* Optional Styling */
+  
+  .pointer:last-child {
     border-bottom: 1px solid #dee2e6;
-}
-
-.clickable-row:hover {
+  }
+  
+  .clickable-row:hover {
     background: #fafafa;
-}
-
-a {
+  }
+  
+  a {
     font-size: 1.2rem;
-    color:#d60e96;
-}
-
-a:hover {
+    color: #d60e96;
+  }
+  
+  a:hover {
     text-decoration: none;
-}
+  }
