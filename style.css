@@ -1,0 +1,11 @@
+.pointer {
+    cursor: pointer;
+}
+
+.pointer:last-child {
+    border-bottom: 1px solid #dee2e6;
+}
+
+.clickable-row:hover {
+    background: #f0f0f0;
+}
